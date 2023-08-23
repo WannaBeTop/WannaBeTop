@@ -1,8 +1,12 @@
-### Hi there 👋 My name is Dong Hyeok Shin , from Korea
+
 <br/>
 <div align="center">
-  
+    
   ![header](https://capsule-render.vercel.app/api?type=soft&text=WannaBeTop)
+  #### 반갑습니다. 제 이름은 신동혁이라고 하고, 경북대학교 컴퓨터학부 글로벌SW융합학부에 재학 중입니다.
+  <br/>
+  <br/>
+  
   ####  :clipboard: Once I've Used 
 
   <br/>
