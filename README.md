@@ -1,10 +1,9 @@
 ### Hi there 👋 My name is Dong Hyeok Shin , from Korea
 
 <div align="center">
-  ![header](https://capsule-render.vercel.app/api?type=soft&text=WannaBeTop)
-   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
-
   
+  ![header](https://capsule-render.vercel.app/api?type=soft&text=WannaBeTop)
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
 </div>
 
 
