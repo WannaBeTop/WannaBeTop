@@ -1,5 +1,5 @@
 ### Hi there 👋 My name is Dong Hyeok Shin , from Korea
-![header](https://capsule-render.vercel.app/api?type=wave)
+![header](https://capsule-render.vercel.app/api?type=soft)
  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
 
 <!--
